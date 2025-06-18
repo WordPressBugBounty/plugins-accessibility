@@ -1,6 +1,5 @@
 == Changelog ==
 
-= 1.0.7 =
+= 1.0.8 =
 
-* Security fix: Fix CSRF vulnerability.
-* WordPress 6.5.2 compatibility check
+* WordPress 6.8.1 compatibility check
