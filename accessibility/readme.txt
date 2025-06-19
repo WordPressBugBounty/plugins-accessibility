@@ -3,8 +3,8 @@ Contributors: ohadsh535
 Author URI: http://octa-code.com
 Tags: accessibility, user1, WAI, WCAG, accessible web
 Requires at least: 3.0.1
-Tested up to: 6.5.2
-Stable tag: 1.0.8
+Tested up to: 6.8.1
+Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
