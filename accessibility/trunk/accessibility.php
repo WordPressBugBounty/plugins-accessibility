@@ -4,7 +4,7 @@
  *
  * Plugin Name: Accessibility
  * Description: Accessibility Utility Widget - A high quality solution for making your WordPress website accessible ready.
- * Version:     1.0.10
+ * Version:     1.0.9
  * Author:      Octa Code
  * Author URI: https://octa-code.com
  * Plugin URI: https://acc.magixite.com
